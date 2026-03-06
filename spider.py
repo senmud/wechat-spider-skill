@@ -1,0 +1,1 @@
+/root/.nanobot/workspace/skills/wechat-spider/scripts/fetch_wechat.py

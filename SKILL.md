@@ -18,13 +18,10 @@ metadata: {"nanobot":{"emoji":"🕷️"}}
 
 ## 📖 使用指南
 
-### 1. 抓取文章正文
+### 抓取文章正文
 ```bash
 python3 scripts/fetch_wechat.py "https://mp.weixin.qq.com/s/..."
 ```
-
-## 📦 安装
-`clawhub install wechat-spider`
 
 ## 🛡️ 安全声明
 本工具由 **小雪安全 (Xiaoxue Security)** 提供，仅限用于公开情报获取。严禁用于非法抓取或侵犯隐私。
